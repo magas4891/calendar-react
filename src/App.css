@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.Container {
+    width: 50%;
+    min-height: 200px;
+    border: 2px solid blue;
+    margin: 50px auto;
+    padding: 20px;
+    text-align: left
+}
+
+.Day {
+    display: inline-block;
+    width: 10%;
+    text-align: center;
+    background-color: aquamarine;
+    border: 1px;
+    padding: 5px;
+    margin: 2px;
+}
+
+.Empty {
+    background-color: white;
+}
+
+.Weekend {
+    background-color: red;
+}
